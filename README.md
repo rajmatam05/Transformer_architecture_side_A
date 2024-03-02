@@ -21,6 +21,7 @@ Welcome to the Transformer Architecture PowerPoint Presentation repository! This
 ## Resources:
 
 - [Transformer Paper by Vaswani et al.](https://arxiv.org/abs/1706.03762)
+- https://youtu.be/kCc8FmEb1nY?si=LF45ecCX2IOfqw_j
 - [Illustrated Transformer by Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
 
 ## License:
